@@ -1,6 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Bogdan 👋
+I'm a self-taught java Android developer.
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mirodone)
+- 🌱 I’m always learning ...
+- 👯 I’m open to work #opentowork ...
+
+#### 💬 You can find me on
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirodone-bogdan-george-76341417/)
+
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirodone&layout=compact)](https://github.com/mirodone)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirodone&show_icons=true&include_all_commits=true&theme=vue)
 
 <!--
 **mirodone/mirodone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
